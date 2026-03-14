@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/azilcoff/Dev/Projects/Ping Pong/build",
+  "command": "/usr/bin/g++ -I\"/home/azilcoff/Dev/Projects/Ping Pong/glad/include\" -g -o CMakeFiles/Main.dir/Main.cpp.o -c \"/home/azilcoff/Dev/Projects/Ping Pong/Main.cpp\"",
+  "file": "/home/azilcoff/Dev/Projects/Ping Pong/Main.cpp",
+  "output": "/home/azilcoff/Dev/Projects/Ping Pong/build/CMakeFiles/Main.dir/Main.cpp.o"
+},
+{
+  "directory": "/home/azilcoff/Dev/Projects/Ping Pong/build",
+  "command": "/usr/bin/gcc -I\"/home/azilcoff/Dev/Projects/Ping Pong/glad/include\" -g -o CMakeFiles/Main.dir/glad/src/glad.c.o -c \"/home/azilcoff/Dev/Projects/Ping Pong/glad/src/glad.c\"",
+  "file": "/home/azilcoff/Dev/Projects/Ping Pong/glad/src/glad.c",
+  "output": "/home/azilcoff/Dev/Projects/Ping Pong/build/CMakeFiles/Main.dir/glad/src/glad.c.o"
+}
+]

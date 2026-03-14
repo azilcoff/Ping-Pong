@@ -1,0 +1,4 @@
+# ninja log v7
+1	256	1773487246752376057	CMakeFiles/Main.dir/Main.cpp.o	b811d129c057564
+1	66	1773417225640047174	CMakeFiles/Main.dir/glad/src/glad.c.o	ea3a3be8ab2c6750
+256	310	1773487247008021909	Main	f26c9b3ed627dbf3

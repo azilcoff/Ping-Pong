@@ -1,0 +1,3 @@
+/home/azilcoff/Dev/Projects/Ping Pong/build/CMakeFiles/Main.dir
+/home/azilcoff/Dev/Projects/Ping Pong/build/CMakeFiles/edit_cache.dir
+/home/azilcoff/Dev/Projects/Ping Pong/build/CMakeFiles/rebuild_cache.dir
